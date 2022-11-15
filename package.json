@@ -1,0 +1,20 @@
+{
+  "name": "nordswitch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinkus/nordswitch.git"
+  },
+  "keywords": [],
+  "author": "marinkus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marinkus/nordswitch/issues"
+  },
+  "homepage": "https://github.com/marinkus/nordswitch#readme"
+}
