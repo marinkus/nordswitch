@@ -18,6 +18,6 @@ class MainClass
 
     public function main()
     {
-    
+
     }
 }
